@@ -1,6 +1,6 @@
 # ed25519
 
-Ed25519 signature verification for Lua 5.1 to 5.4 and LuaJIT, built on [Monocypher](https://monocypher.org) (vendored, 4.0.3).
+Ed25519 signature verification for Lua 5.1 to 5.4 and LuaJIT, built on [Monocypher](https://monocypher.org) (vendored).
 Small (about 57 KB of code), no dependencies, no allocation: it runs on microcontrollers.
 
 ```lua
